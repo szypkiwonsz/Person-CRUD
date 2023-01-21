@@ -22,7 +22,7 @@ Python Version
 
 Libraries and Packages
 ```
-Open terminal with choosen folder "Persons-Script>"
+Open terminal with choosen folder "Person-CRUD>"
 ```
 
 ```
@@ -41,7 +41,7 @@ Download or clone project
 Install requirements
 ```
 ```
-Open terminal with choosen folder "Persons-Script\persons>"
+Open terminal with choosen folder "Person-CRUD\persons>"
 ```
 ```
 Type python script.py start-program
